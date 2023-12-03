@@ -1,16 +1,16 @@
-*{
-    text-align: center;
+* {
+  text-align: center;
 }
 
-header{
-    background-color: rgb(123, 0, 255);
+header {
+  background-color: rgb(123, 0, 255);
 }
 
-h2{
-    background-color: rgb(0, 0, 0);
-    color: yellow;
+h2 {
+  background-color: rgb(0, 0, 0);
+  color: yellow;
 }
-h3{
-    background-color: white;
-    color: darkgreen;
+h3 {
+  background-color: white;
+  color: darkgreen;
 }
