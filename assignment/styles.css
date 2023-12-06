@@ -9,6 +9,7 @@ header {
 .info {
   background-color: rgb(0, 0, 0);
   color: yellow;
+  border: 3px;
 }
 h3 {
   background-color: white;
